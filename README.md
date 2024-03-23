@@ -37,7 +37,7 @@
 - What should be the ideal price of our product?
 - What kind of marketing campaigns, offers, and discounts we can run?
 - Who can be a brand ambassador, and why?
-- Who should be our target audience, and why
+- Who should be our target audience, and why?
 
 
   
